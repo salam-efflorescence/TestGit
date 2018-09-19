@@ -17,3 +17,22 @@ It basically does not host any workloads or any code.
 The primary role of this scheduler is to invoke the code hosted anywhere like in Azure, on premises, or with another provider.
 The major advantage of using it is that you can invoke it via HTTP, HTTPS, a storage queue, a service bus queue, or a service bus topic.
 It allows you to create, update, delete, view, and manage jobs or a job collection programmatically, by using scripts.
+Concept - About
+
+Azure Scheduler allows you to describe actions to run in the cloud. You can schedule and run the actions automatically. You can schedule the scheduler by using Rest API or Azure PowerShell.
+Scheduler creates, it maintains and invokes the scheduled work.
+It basically does not host any workloads or any code.
+The primary role of this scheduler is to invoke the code hosted anywhere like in Azure, on premises, or with another provider.
+The major advantage of using it is that you can invoke it via HTTP, HTTPS, a storage queue, a service bus queue, or a service bus topic.
+It allows you to create, update, delete, view, and manage jobs or a job collection programmatically, by using scripts.
+
+
+
+Concept - About
+
+Azure Scheduler allows you to describe actions to run in the cloud. You can schedule and run the actions automatically. You can schedule the scheduler by using Rest API or Azure PowerShell.
+Scheduler creates, it maintains and invokes the scheduled work.
+It basically does not host any workloads or any code.
+The primary role of this scheduler is to invoke the code hosted anywhere like in Azure, on premises, or with another provider.
+The major advantage of using it is that you can invoke it via HTTP, HTTPS, a storage queue, a service bus queue, or a service bus topic.
+It allows you to create, update, delete, view, and manage jobs or a job collection programmatically, by using scripts.
